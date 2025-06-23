@@ -1,4 +1,4 @@
-# VectorShift Integrations Technical Assessment
+# VectorShift Integrations System
 
 This project is a web application that allows users to connect to various third-party services (Airtable, Notion, HubSpot) and view their data. It consists of a React frontend and a Python (FastAPI) backend.
 
